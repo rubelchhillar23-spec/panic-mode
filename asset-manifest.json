@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/panic-mode/static/js/main.3cf192a2.js",
+    "index.html": "/panic-mode/index.html",
+    "main.3cf192a2.js.map": "/panic-mode/static/js/main.3cf192a2.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.3cf192a2.js"
+  ]
+}
